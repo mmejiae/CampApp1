@@ -1,3 +1,4 @@
 <resources>
     <string name="app_name">CampApp</string>
+    <string name="title_activity_ingresar">Ingresar</string>
 </resources>
